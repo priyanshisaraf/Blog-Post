@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10rem;
+    align-items: center;
+    
+  }
+  
+  .content {
+    font-size: 1.3rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+  span {
+    font-weight: 600;
+  }
+  
+  .main-img{
+    width: 65vw;
+    height: 55vh;
+  }
+  .content img{
+    width: 50vw;
+    height: 50vh;
+    align-self: center;
+  }
+  
